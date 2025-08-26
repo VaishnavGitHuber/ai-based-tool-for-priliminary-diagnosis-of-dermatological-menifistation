@@ -22,3 +22,15 @@ Viral skin diseases (warts, herpes)
 - Disability Burden: Collectively, skin conditions account for about 1.8–2% of the total global disease burden (measured in Disability-Adjusted Life Years, DALYs).
 - Regional Variations: Prevalence and severity differ by region due to environment, hygiene, socioeconomic status, and healthcare access.
 Psychosocial Impact: Beyond physical symptoms, skin diseases often lead to stigma, depression, and reduced quality of life.
+
+#### MOST COMMON SKIN DISEASES
+- Acne vulgaris – pimples, blackheads, whiteheads (especially in teens and young adults).
+- Atopic dermatitis (Eczema) – chronic itchy inflammation, often starting in childhood.
+- Psoriasis – autoimmune scaling patches, lifelong condition.
+- Fungal infections – ringworm, athlete’s foot, yeast infections.
+- Scabies – mite infestation, very itchy and contagious.
+- Urticaria (Hives) – sudden red, itchy welts due to allergies.
+- Alopecia areata – autoimmune hair loss in patches.
+- Warts (HPV infection) – common viral skin growths.
+- Impetigo & cellulitis – bacterial infections, more common in children.
+- Skin cancers – melanoma and non-melanoma (linked with sun exposure).
